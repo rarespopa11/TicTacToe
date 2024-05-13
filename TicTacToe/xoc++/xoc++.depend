@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1684286287 source:c:\users\adria\desktop\exercitii c\xoc++\main.cpp
+	<windows.h>
+	<conio.h>
+	"func.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1685018362 c:\users\adria\desktop\exercitii c\xoc++\func.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	"Player.h"
+	<iomanip>
+
+1685011460 c:\users\adria\desktop\exercitii c\xoc++\include\player.h
+	<iostream>
+	<iomanip>
+
+1685016660 source:c:\users\adria\desktop\exercitii c\xoc++\src\player.cpp
+	"Player.h"
+
+1685018752 c:\users\adria\desktop\exercitii c\xoc++\include\func.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	"Player.h"
+	<iomanip>
+
+1685039972 source:c:\users\adria\desktop\exercitii c\xoc++\src\func.cpp
+	"func.h"
+	<windows.h>
+	<conio.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	"Player.h"
+	<iomanip>
+	<cstdlib>
+
